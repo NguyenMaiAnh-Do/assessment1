@@ -1,0 +1,73 @@
+1) What does the `rm` command in the terminal do?
+
+Your answer:
+delete files/folder irreversibly
+
+------------------
+2) What terminal command would you use to list all the files and folder in the 
+   current directory?
+
+Your answer:
+ls 
+
+------------------
+3) Explain the difference between these two commands in the terminal:
+   
+   $ cd Users
+   $ cd /Users
+
+Your answer:
+$ cd Users: would change directory from current directory to sub-directory Users
+$ cd /Users: this is an absolute path, navigating to root directory and Users subdirectory of root
+
+------------------
+4) Describe what git is and what it is used for.
+
+Your answer:
+version control of codes
+
+------------------
+5) Describe what GitHub is and what it is used for.
+
+Your answer:
+web-based version of git for multiple users' collaborations
+
+------------------
+6) Which of these commands sets up a new git repository?
+    a) git clone 
+    b) git pull
+    c) git init
+    d) git status
+
+Your answer:
+c
+------------------
+7) You want to check that you have properly added all the files you want to be
+   tracked in git BEFORE you make a commit. Which command will do this?
+     a) git push
+     b) git commit
+     c) git status
+     d) git remote
+
+Your answer:
+c
+
+------------------
+8) What is the difference between `git add` and `git commit`?
+
+Your answer:
+git add would add changes to the staging area
+git commit would commit changes in the staging area to a current branch
+
+------------------
+9) What does the `git push` command do?
+
+Your answer:
+push commit to remote repository
+
+------------------
+10) When would you use the `git clone` command?
+
+Your answer:
+to copy code from github to local dev environment
+
